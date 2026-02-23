@@ -8,4 +8,4 @@ print(list(map(lambda x: x**3, cube)))
 
 print(list(filter(lambda x: x%2 == 0, even)))
 
-print(reduce(lambda x,y: x+y, red))
+print(reduce(lambda x,y: x*y, red))
