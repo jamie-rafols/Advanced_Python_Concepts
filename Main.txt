@@ -1,1 +1,4 @@
-This is testing
+This is the other command in Git
+
+*.log - all .log inside gitignore will ignore 
+!nameoffile.log this will push inside repo
